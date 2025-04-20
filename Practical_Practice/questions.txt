@@ -1,0 +1,8 @@
+Topics to be referred for the exam are: 
+- Sorting Algorithms, 
+- Prims, Kruskals, X
+- DFS, BFS, X
+- Floyd Warshall, Dijkstra's, X
+- Fractional Knapsack, X 
+- Naive String Matching, GCD X
+- programs related to recursion in general.

@@ -37,7 +37,7 @@ void RecentUsers::showRecent(const string &filename)
     for (auto &u : seen)
         cout << u << endl;
 }
-
+ 
 int main(){
     RecentUsers R;
     R.showRecent("log.txt");
